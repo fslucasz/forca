@@ -51,7 +51,7 @@ O objetivo do sistema é proporcionar uma experiência simples e divertida do jo
 
 2. Baixe ou clone este repositório.
 ```bash
-  git clone https://github.com/fslucasz/forca.git
+git clone https://github.com/fslucasz/forca.git
 
 ```
 
