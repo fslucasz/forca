@@ -50,7 +50,7 @@ O objetivo do sistema é proporcionar uma experiência simples e divertida do jo
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 
 2. Baixe ou clone este repositório.
-   ```
+   ´´´
   git clone https://github.com/fslucasz/forca.git
   
 ```
@@ -58,8 +58,7 @@ O objetivo do sistema é proporcionar uma experiência simples e divertida do jo
 4. Abra o terminal/prompt no diretório do projeto.
 
 5. Execute o seguinte comando:
-
-```
+´´´
 python forca.py
 
 ```
