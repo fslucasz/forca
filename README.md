@@ -1,10 +1,9 @@
-# forca
-
 # Jogo da Forca em Python
 
 ## Integrantes da Equipe
 
-* Lucas Floriano de Sousa e Lucas Montagnoli - 1 MTEC PI DS (Grupo B)
+* Lucas Floriano de Sousa
+* Lucas Montagnoli
 
 ## Tema Escolhido
 
@@ -51,10 +50,14 @@ O objetivo do sistema é proporcionar uma experiência simples e divertida do jo
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 
 2. Baixe ou clone este repositório.
+   ```
+  git clone
 
-3. Abra o terminal/prompt no diretório do projeto.
+```
 
-4. Execute o seguinte comando:
+4. Abra o terminal/prompt no diretório do projeto.
+
+5. Execute o seguinte comando:
 
 ```
 python nome_do_arquivo.py
