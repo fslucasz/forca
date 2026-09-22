@@ -51,8 +51,8 @@ O objetivo do sistema é proporcionar uma experiência simples e divertida do jo
 
 2. Baixe ou clone este repositório.
    ```
-  git clone
-
+  git clone https://github.com/fslucasz/forca.git
+  
 ```
 
 4. Abra o terminal/prompt no diretório do projeto.
@@ -60,6 +60,6 @@ O objetivo do sistema é proporcionar uma experiência simples e divertida do jo
 5. Execute o seguinte comando:
 
 ```
-python nome_do_arquivo.py
+python forca.py
 
 ```
