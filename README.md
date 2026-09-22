@@ -4,7 +4,7 @@
 
 ## Integrantes da Equipe
 
-* \Lucas Floriano de Sousa e Lucas Montagnoli - 1 MTEC PI DS (Grupo B)\
+* Lucas Floriano de Sousa e Lucas Montagnoli - 1 MTEC PI DS (Grupo B)
 
 ## Tema Escolhido
 
